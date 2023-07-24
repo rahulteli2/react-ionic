@@ -234,3 +234,13 @@ http://ionicframework.com/docs/theming/ */
     --ion-card-background: #1e1e1e;
   }
 }
+
+ion-content{
+  --ion-background-color: #159957;
+}
+ion-card{
+  --ion-background-color: #f3f3f3;
+}
+.Link{
+  color: #0d0d0d;
+}
